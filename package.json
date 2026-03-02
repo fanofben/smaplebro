@@ -1,8 +1,8 @@
-"homepage": "https://fanofben.github.io/smaplebro",
 {
   "name": "vite-project",
   "private": true,
   "version": "0.0.0",
+  "homepage": "https://fanofben.github.io/smaplebro",
   "type": "module",
   "scripts": {
   "dev": "vite",
